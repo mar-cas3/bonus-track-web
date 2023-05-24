@@ -2,8 +2,8 @@ import { MD5 } from "crypto-js";
 
 export const getCharacters = function () {
     
-    const PRIVATE_KEY = "0364344362d95a2051c58be04eb546c3d5b20e5a"; 
-    const PUBLIC_KEY = "639eb2eff2702f0b15aad6cd3b6ade8a";
+    const PRIVATE_KEY = "ab70c1b6544ff658c050124a13959b1070dc7cbe"; 
+    const PUBLIC_KEY = "8bd3931e9275a7aab7fbb4e5395b0a57";
 
     const BASE_URL = "http://gateway.marvel.com/v1/public";
 
